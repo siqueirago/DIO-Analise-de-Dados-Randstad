@@ -1,4 +1,5 @@
 # 📊 Bootcamp Análise de Dados com ETL, IA e Machine Learning
+<img width="338" height="159" alt="image" src="https://github.com/user-attachments/assets/af7828ca-b904-4b3d-a55e-affde74834bf" />
 
 Bem-vindo(a) ao repositório do **Bootcamp de Análise de Dados**, uma jornada completa para dominar todo o fluxo de análise, desde a coleta até a transformação em insights valiosos, utilizando **ETL, IA e Machine Learning**.
 
